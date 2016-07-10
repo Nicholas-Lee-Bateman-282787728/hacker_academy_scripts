@@ -1,0 +1,9 @@
+Hi $name,
+    Hacker Academy has booked a room on $date for your 50 minute NETtalk
+    starting promptly at $starting_time to students at UofT, and we're wondering if you're ready to go. The location is ${location}.
+
+$materials_msg
+
+Wen and Alan
+Hacker Academy
+University of Toronto

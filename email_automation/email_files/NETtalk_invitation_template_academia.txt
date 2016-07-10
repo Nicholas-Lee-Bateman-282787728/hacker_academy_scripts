@@ -1,0 +1,20 @@
+Title: Invitation for a Talk at a Student-Run Technology Club at UofT
+
+Email:
+Dear [professor_name],
+Our names are Alan and Wen and we are the co-presidents of Hacker Academy, a student-run club at the University of Toronto. Hacker Academy is a group of students who are passionate about technology, especially computer-related technology and software. It is a group aimed at piquing students’ interests in the various fields and developments in technology, so that one day they may be inspired to take up a field as one of their own, and for each member, find the passion that allows oneself to be devoted to a subject. With this goal in mind we’re inviting you to speak at a NETtalk (News, Engineering, Technology), one of our club’s long-running weekly talks.
+
+MOTIVATION:
+We want students to hear you present on a topic that you are truly passionate about - whether it be something you have worked on in the past or something you are working on now. The reason being that academia, we think, is the closest place to just a pure exploration of subjects, and so we believe it has the possibility of sparking student interest in a subject, which can in turn ignite their own passion in it. The valuable knowledge students can gain from a subsequent endeavour to understand something then lays the foundation for future work and innovations, proved by the many researchers who have done so in the past in this very university. Moreover, presentations from researchers in conjunction with industry speakers can truly showcase students the breadth of topics which they can pursue in the technological realm.
+
+DETAILS:
+We are looking for a topic you're passionate about that is interesting for undergraduate students suitable for a TED-like presentation/talk 50 minutes or under on a week night (most preferably 8PM Tuesday) on campus. The only strong suggestion being that the focus of the topic be within technology and software.
+
+Send us any questions you have and we’ll answer them to the best of our ability.
+
+Sincerely and best regards,
+Wen and Alan
+
+Hacker Academy Co-Presidents
+University of Toronto
+www.hackeracademy.org

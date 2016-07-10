@@ -1,0 +1,11 @@
+Name,Email,,,,,
+Wen Li,tonywli@hotmail.com,,,,,
+ Wen Bo Li,wbli@altera.com,,,Expected Output,,
+,tony.wenbo.li@gmail.com,,,tony.wenbo.li@gmail.com,Wen,Li
+wen bo li ,tony.wenbo.li@gmail.com,,,wbli@altera.com,Wen Bo,Li
+Wen Bo Li,,,,alan.daniels@mail.utoronto.ca,Alan,Daniels
+Wen Li,,,,,,
+Wen,,,,,,
+,,,,,,
+Alan,,,,,,
+Alan  Daniels,alan.daniels@mail.utoronto.ca,,,,,

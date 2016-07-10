@@ -1,0 +1,11 @@
+EngSoc-affiliated Hacker Academy would like to notify EngSoc officers of a pizza order.
+
+Name of hacker picking up pizza: [person_name]
+Date of awesome event: [event_date]
+Time of awesome event: [event_time]
+List of pizza and toppings:
+[pizza_order_table]
+Phone number to call when pizza arrives: [phone_number]
+
+Cheers,
+Hacker Academy
