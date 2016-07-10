@@ -5,14 +5,14 @@ import argparse
 from sys import argv
 import os
 
-# Usage: python wui.py <csv file in correct format>
+print """Usage: python wui.py <input csv file in same format as from hackeracademy.org converted from XLS to CSV, or directly downloaded from hackeracademy.org>"""
 
 ######### TESTS ########
 
 class TestProgram(unittest.TestCase):
     def test_program(self):
-        test_file = "/home/wentron/Documents/coding/python/scripts/website_user_importer_test/test.csv"
-        test_output_file = "/home/wentron/Documents/coding/python/scripts/website_user_importer_test/test_output.csv"
+        test_file = os.path.join("website_user_importer_test", "test.csv")
+        test_output_file = os.path.join("website_user_importer_test", "test_output.csv")
         remove_list = ['wbli@altera.com']
 
         create_importable_csv_from_website_csv(test_file, test_output_file, remove_list)
