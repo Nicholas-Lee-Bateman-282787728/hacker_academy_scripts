@@ -2,13 +2,13 @@
 
 Written for python 2.7.
 
-#TODO: Upgrade to python 3.
+##TODO: Upgrade to python 3.
 
 helper.py contains helper scripts
 
-wui.py grabs all users from hackeracademy.org, puts them in an excel file, which can be directly used in MailChimp for uploading any new users (MailChimp ignores users who are already existing).
-
-website_user_importer_test contains unit test files for wui.py
+add_website_users contains scripts having to do with adding new users to the MailChimp mailing list.
+- wui.py grabs all users from hackeracademy.org, puts them in an excel file, which can be directly used in MailChimp for uploading any new users (MailChimp ignores users who are already existing).
+- website_user_importer_test contains unit test files for wui.py.
 
 email_automation contains scripts having to do with email automation.
 - Email.py contains basic email-sending functions.
